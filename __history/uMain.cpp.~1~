@@ -20,7 +20,6 @@ __fastcall TAccelerometerForm::TAccelerometerForm(TComponent* Owner)
 // ---------------------------------------------------------------------------
 void __fastcall TAccelerometerForm::FormCreate(TObject *Sender) {
 
-	// test
 	// start with no sensors
 	lbAccelerationX->Visible = false;
 	lbAccelerationY->Visible = false;

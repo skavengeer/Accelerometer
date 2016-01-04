@@ -14,7 +14,6 @@ inherited AccelerometerForm_LgXhdpiPh: TAccelerometerForm_LgXhdpiPh
       Size.Width = 450.000000000000000000
       inherited swAccelerometerSensorActive: TSwitch
         Position.X = 401.000000000000000000
-        Size.Height = 44.000000000000000000
       end
     end
     inherited lbAccelerationX: TListBoxItem
